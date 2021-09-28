@@ -1,2 +1,6 @@
-# Mood_Based_Movie_Recommend
-We will Suggest you movie on the basis of your "Mood"
+- ✨ Mood Based Movie Recommendation is divided into two parts:-
+- Mood Based
+- Favourite Movie Based
+- In Mood Based Movie Recommendation, the user enter their mood and accordingly some list of movies are shown
+- Using genre and the mood, the users are suggested some movies
+- In Favourite Movie Based, User first enter their favourite movie and accord
